@@ -1,34 +1,32 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+templateKey: blog-post
+title: Learn to enjoy the journey
 date: 2017-01-04T15:04:10.000Z
-featuredpost: true
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  We are often questioned about what we want in life. Most of us will answer
+  with a destination rather than a journey.
+featuredpost: true
+featuredimage: /img/ivana-cajina-xv0qJKmUTyk-unsplash.jpg
 tags:
   - jamaica
   - green beans
   - flavor
   - tasting
 ---
+What do you want to achieve in life? I'm not a mind reader but I would guess you just thought to yourself where you want to be rather than the journey you need to take to get there.
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+In fact, most of us, when questioned about this we answer something along the line of having a wonderful family with kids and, a successful business, a nice house, nice car, nice clothes and being able to provide for the family.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+These are all destinations but what about the journey? What does it take to get there?
 
-## A little history
+From personal experience I can assure you life has curious ways of showing us the path we need to take and that the actions we take define the destination. 
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Tony Robbins is a strong defender that [life happens to us, not for us](https://www.tonyrobbins.com/mind-meaning/life-is-happening-for-me/). By this Tony means that **life will take you where you need to be and eventually where you want to go**, but to get there also means life will, sometimes, move you in different directions of where you want to be.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+When this happens you should **embrace the journey** and accept that you are not at a favorable place and that you need to do something to get to where you want to be. 
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+Understand that **difficult times are a challenge put in your way so you can learn** to deal with it and improve. The journey is there for you to take, the destination will be decided by the actions you take to face the challenge.
 
-## What you need to know before trying
+So the next time someone asks you what do you want in life instead of saying you want the destination, consider embracing the journey.
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+"I want a life that teaches me to be better, stronger and wiser so me and my family can learn, evolve prosper together."
