@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Learn to enjoy the journey
-date: 2017-01-04T15:04:10.000Z
+date: 2020-01-12T15:04:10.000Z
 description: >-
   We are often questioned about what we want in life. Most of us will answer
   with a destination rather than a journey.
