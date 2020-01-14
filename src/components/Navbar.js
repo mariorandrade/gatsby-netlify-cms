@@ -40,16 +40,7 @@ const Navbar = class extends React.Component {
         aria-label="main-navigation"
       >
         <div className="container">
-          <div
-            id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
-          >
-            <div className="level-item navbar-start has-text-centered">
-              <Link className="navbar-item link" to="/about">
-                About
-              </Link>
-
-              <div className="navbar-brand">
+          <div className="navbar-brand">
                 <Link to="/" className="navbar-item" title="Logo">
                   <span class="title"><b>Naturzen</b> Wellness</span>>
                   {/* <img src={logo} alt="Kaldi" style={{ width: '88px' }} /> */}
@@ -65,6 +56,15 @@ const Navbar = class extends React.Component {
                   <span />
                 </div>
               </div>
+          <div
+            id="navMenu"
+            className={`navbar-menu ${this.state.navBarActiveClass}`}
+          >
+            <div className="level-item navbar-start has-text-centered">
+              
+              <Link className="navbar-item link" to="/about">
+                About
+              </Link>
 
               <Link className="navbar-item link" to="/blog">
                 Blog
