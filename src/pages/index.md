@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/nitish-meena-RbbdzZBKRDY-unsplash.jpg
+title: Naturzen Wellness
+image: /img/sky.jpg
 heading: Naturzen Wellness
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
