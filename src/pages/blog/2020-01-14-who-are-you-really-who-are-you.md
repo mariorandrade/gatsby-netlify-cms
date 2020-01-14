@@ -13,8 +13,6 @@ tags:
   - thoughts
   - grow
 ---
-
-
 One of the first questions my coach asked me was if I knew who I was and I thought I did. So he gave me an assignment. Ask my friends who I was to them. They didn't understand the question so I shaped it a little and asked If someone asked them who I was, what would they answer.
 
 Their answer surprised me on how vague they were and I felt I needed to act and elevate myself to an upper level.
