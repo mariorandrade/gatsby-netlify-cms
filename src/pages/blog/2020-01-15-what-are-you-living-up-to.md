@@ -49,6 +49,6 @@ I honestly hope that in the future, my life story will inspire other people to w
 
 .
 
-##### *"Step out of history that's holding you back. Step into the new story you're willing to create."* 
+##### *"Step out of history that's holding you back. Step into the new story you're willing to create."*
 
 *\- Oprah Winfrey*
