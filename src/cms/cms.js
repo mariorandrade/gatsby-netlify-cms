@@ -1,4 +1,5 @@
 import CMS from 'netlify-cms-app'
+import '../components/all.sass'
 import uploadcare from 'netlify-cms-media-library-uploadcare'
 import cloudinary from 'netlify-cms-media-library-cloudinary'
 

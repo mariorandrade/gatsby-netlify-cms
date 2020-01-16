@@ -70,16 +70,7 @@ const BlogPost = ({ data }) => {
               name="description"
               content={`${post.frontmatter.description}`}
             />
-            {post.frontmatter.featuredimage ? (
-              <div className="featured column is-12">
-                <PreviewCompatibleImage
-                  imageInfo={{
-                    image: post.frontmatter.featuredimage,
-                    alt: `${post.frontmatter.title}`,
-                  }}
-                />
-              </div>
-            ) : null}
+            
           </Helmet>
         }
         tags={post.frontmatter.tags}
