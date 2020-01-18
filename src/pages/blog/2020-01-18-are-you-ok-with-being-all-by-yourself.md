@@ -19,8 +19,6 @@ Photo by[Timur Romanov](https://unsplash.com/@timromanov?utm_source=unsplash&utm
 
 .
 
-
-
 Life was pretty sweet. Everything was in place, my work, my personal life, my achievements were all going great but a few months ago everything came crumbling down...\
 \
 My relationship ended and with it the life I wanted to live, my dreams of building a family with that person ending.\
