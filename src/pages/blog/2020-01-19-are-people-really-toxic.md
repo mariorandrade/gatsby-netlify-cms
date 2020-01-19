@@ -9,7 +9,7 @@ description: >-
 
   One of those conversations I had while exploring nature was about toxic
   people.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/dmitry-ratushny-yYyzBLyyjOM-unsplash.jpg
 tags:
   - life
