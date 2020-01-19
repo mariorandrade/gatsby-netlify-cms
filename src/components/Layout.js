@@ -39,7 +39,7 @@ const TemplateWrapper = ({ children }) => {
           color="#ff4400"
         />
 
-        
+        <meta name="google-site-verification" content="cLTUetvtsMywoLfSkt655xroRIv0g4pbFD4jiQrvsIs" />
 
         <meta name="theme-color" content="#fff" />
 
