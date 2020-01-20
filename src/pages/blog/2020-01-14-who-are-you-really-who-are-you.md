@@ -5,7 +5,7 @@ date: 2020-01-14T19:22:01.693Z
 description: >-
   Have you ever took the time to really think about the person you are? Is that
   person someone you are proud of?
-featuredpost: true
+featuredpost: false
 featuredimage: /img/freddie-marriage-X5pWCHBaMms-unsplash.jpg
 tags:
   - coaching
@@ -53,6 +53,6 @@ One year from now it's possible some people will no longer keep in touch, my old
 
 \-
 
-#### *Don't spend all of your time trying to find yourself. Spend your time creating yourself into a person that you'll be proud of.* 
+#### *Don't spend all of your time trying to find yourself. Spend your time creating yourself into a person that you'll be proud of.*
 
 *Sonya Parker*

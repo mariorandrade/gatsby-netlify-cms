@@ -3,12 +3,10 @@ templateKey: index-page
 title: Naturzen Wellness
 image: /img/forest-931706_1280.jpg
 mainpitch:
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-  title: Why Kaldi
+  description: >-
+    Welcome to Naturzen Wellness, a Journal about my healing and discovery
+    process to happiness.
+  title: The journey of a thousand miles begins with one step — Lao Tzu
 main:
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
