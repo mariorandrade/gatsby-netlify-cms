@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Naturzen Wellness
+title: 'A walk in nature, walks the soul back home'
 image: /img/forest-931706_1280.jpg
 mainpitch:
   description: >-
