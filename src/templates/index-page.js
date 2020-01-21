@@ -54,18 +54,7 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-12">
               <div className="content center">
-                <div className="content">
-                  <h2 className="title">{mainpitch.title}</h2>  
-                  <div className="columns">
-                    <div className="column is-12">
-                      <p>{mainpitch.description}</p>
-                    </div>
-                  </div>
-                  
-                 
-                </div>
                 
-             
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
                     Featured articles
@@ -77,6 +66,16 @@ export const IndexPageTemplate = ({
                     </Link>
                   </div>
                 </div>
+
+                <div className="content">
+                  <h2 className="title">{mainpitch.title}</h2>  
+                  <div className="columns">
+                    <div className="column is-12">
+                      <p>{mainpitch.description}</p>
+                    </div>
+                  </div> 
+                </div>
+
               </div>
             </div>
           </div>
