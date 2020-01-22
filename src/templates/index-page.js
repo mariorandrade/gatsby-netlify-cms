@@ -19,8 +19,22 @@ export const IndexPageTemplate = ({
         })`,
         backgroundPosition: `center center`,
         backgroundAttachment: `fixed`,
+        overflow: `hidden`
       }}
     >
+      
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+
       <div
         style={{
           display: 'flex',
@@ -60,7 +74,7 @@ export const IndexPageTemplate = ({
                     Featured articles
                   </h3>
                   <BlogRoll />
-                  <div className="column is-12 has-text-centered">
+                  <div className="column is-12 has-text-centered m-t-l m-b-l">
                     <Link className="btn" to="/blog">
                       More articles
                     </Link>
