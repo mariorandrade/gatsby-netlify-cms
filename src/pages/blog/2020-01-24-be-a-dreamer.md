@@ -11,7 +11,6 @@ featuredpost: true
 featuredimage: /img/joshua-earle-Dn3ATeXQEQ4-unsplash.jpg
 tags:
   - thoughts
-  - coaching
   - motivation
 ---
 A while ago when I was browsing Instagram I saw an image that said for a person to be truly happy only needs 3 things:
