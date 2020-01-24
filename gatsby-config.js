@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     siteUrl: 'https://www.naturzenwellness.com',
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Naturzen Wellness',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'This repo contains the source code for Naturzen wellness.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -14,25 +14,14 @@ module.exports = {
       options: {
         trackingId: "UA-54501966-5",
         // Defines where to place the tracking script - `true` in the head and `false` in the body
-        head: false,
+        head: true,
         // Setting this parameter is optional
         anonymize: true,
-        // Setting this parameter is also optional
-        respectDNT: true,
+
         // Avoids sending pageview hits from custom paths
-        exclude: ["/preview/**", "/admin/**"],
+        exclude: ["/preview/**"],
         // Delays sending pageview hits on route update (in milliseconds)
-        pageTransitionDelay: 0,
-        // Enables Google Optimize using your container Id
-        optimizeId: "",
-        // Enables Google Optimize Experiment ID
-        experimentId: "",
-        // Set Variation ID. 0 for original 1,2,3....
-        variationId: "",
-        // Any additional optional fields
-        sampleRate: 5,
-        siteSpeedSampleRate: 10,
-        cookieDomain: "naturzenwellness.com",
+        pageTransitionDelay: 0
       },
     },
     {
