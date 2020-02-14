@@ -10,6 +10,17 @@ module.exports = {
     'gatsby-plugin-sass',
     'gatsby-plugin-sitemap',
     {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name: 'GatsbyJS',
+        short_name: 'GatsbyJS',
+        start_url: '/',
+        background_color: '#f7f0eb',
+        theme_color: '#a2466c',
+        display: 'standalone',
+      },
+    },
+    {
     resolve: 'gatsby-plugin-google-analytics',
       options: {
         trackingId: "UA-54501966-5",
@@ -89,6 +100,7 @@ module.exports = {
         purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
       },
     }, // must be after other CSS plugins
+    'gatsby-plugin-offline',
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 }
